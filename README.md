@@ -31,6 +31,7 @@ python main.py
 
 The script will start scraping data from the "Rainbow Pages" website and save it to the `data.txt` file in the project folder. Please note that web scraping might be subject to website terms of service, so make sure to respect the website's policies and avoid making too many requests in a short time to avoid being blocked.
 
+Here is the my blog post https://medium.com/@tharindumadhusanka99/building-a-comprehensive-dataset-of-75-000-sri-lankan-addresses-using-web-scraping-262affcfdfb
 
 ## Acknowledgments
 
